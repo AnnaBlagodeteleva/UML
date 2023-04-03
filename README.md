@@ -1,2 +1,2 @@
-# PythonLearning
-Learning python from beginner to advance 
+# UML
+Learning UML from beginner to advance 
